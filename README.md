@@ -1,6 +1,24 @@
 # Did a Data Breach Hurt Coinbase's Stock?
 ### A research project explained so a 10-year-old can understand it
 
+## Results at a glance
+
+**On May 15, 2025, the day Coinbase disclosed its data breach, COIN fell 7.2%, while 8 similar companies fell 1.3% on average: a gap of about 5.9 percentage points.**
+
+![Return on May 15, 2025: Coinbase (red) vs. 8 crypto and fintech peers](images/event_day_returns.png)
+
+**Is a 5.9-point gap unusual?** On 60 ordinary days before the event, the same gap was usually near 0. Only 2 of 60 days (about 3%) had a gap as large.
+
+<p align="center"><img src="images/placebo_test.png" alt="Placebo test: COIN-minus-peers gap on 60 ordinary days vs. the breach day" width="520"></p>
+
+<details>
+<summary>Price trend around the breach (April 1 = 100)</summary>
+
+![Coinbase vs. Bitcoin, S&P 500 and peers, April to June 2025](images/price_index_around_breach.png)
+
+The stock dropped on May 15 but bounced back the next day, and S&P 500 inclusion news the same week makes the effect hard to isolate (see section 8).
+</details>
+
 ---
 
 ## 1. The story: what happened?
