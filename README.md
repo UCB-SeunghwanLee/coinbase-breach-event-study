@@ -1,5 +1,5 @@
 # Did a Data Breach Hurt Coinbase's Stock?
-### A research project explained so a 10-year-old can understand it
+### An event study with peer benchmarks and placebo tests
 
 ## Results at a glance
 
